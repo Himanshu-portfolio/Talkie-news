@@ -1,0 +1,15 @@
+{
+  "short_name": "Talkie News",
+  "name": "Talkie News",
+  "icons": [
+    {
+      "src": "https://trello-attachments.s3.amazonaws.com/5f65c894517b7966f13fc83b/60215e902f035552bd203702/31e04a18d5e3dd3ed136a076dbc18677/logo.png",
+      "sizes": "512x512",
+      "type": "image/x-icon"
+    }
+],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
